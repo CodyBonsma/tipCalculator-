@@ -1,7 +1,9 @@
 body {
     background-color: lightgreen;
+    font-family: monospace;
 }
 .container{
+    width: 600px;
     margin-top: 5%;
     padding-bottom: 5%;
     padding-top: 10%;
@@ -10,8 +12,11 @@ body {
     background-color: bisque;
 }
  h1 {
-    color: rgb(9, 80, 9);
-
+    color: black;
+    font-family: monospace;
+    /* background-color: gray; */
+    text-decoration: underline;
+ 
 }; 
 
 #tipAmount {
